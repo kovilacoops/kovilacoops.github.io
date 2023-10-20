@@ -14,10 +14,10 @@ If you are keen on privacy and security research, with direct impact to user com
   * Research Interns
 
 ## Postdoctoral Research Associate in Human-Centred Privacy and Security 
-The successful candidate will joing King's College London to work with Kovila on the EPSRC-funded project AGENCY.
-The job advert is on jobs.ac.uk [here](https://www.jobs.ac.uk/job/DDM311/post-doctoral-research-associate-in-human-centred-privacy-and-security-fte-flexible), or alternatively on King's application portal [here](https://www.kcl.ac.uk/jobs/076846-post-doctoral-research-associate-in-human-centred-privacy-and-security-fte-flexible).
+The successful candidate will join King's College London to work with Kovila on the EPSRC-funded project AGENCY.
+The job advert via jobs.ac.uk can be found [here](https://www.jobs.ac.uk/job/DDM311/post-doctoral-research-associate-in-human-centred-privacy-and-security-fte-flexible), or alternatively via King's application portal [here](https://www.kcl.ac.uk/jobs/076846-post-doctoral-research-associate-in-human-centred-privacy-and-security-fte-flexible).
 
-The postdoctoral research associate will investigate a particular technology-enabled online harm context, such as in relation to Intimate Health Care, Femtech or Intimate Image Sharing. It will focus on a particular user community or population, to examine the socio-technical factors and interaction dynamics that contribute to complex harm situations or to mitigating harms.
+The RA's project will investigate a particular technology-enabled online harm context, such as in relation to Intimate Health Care, Femtech or Intimate Image Sharing. It will focus on a particular user community or population, to examine the socio-technical factors and interaction dynamics that contribute to complex harm situations or to mitigating harms.
 
 
 
