@@ -9,6 +9,9 @@ main:
   - title: "Academic Service"
     url: /academicservice/
 
+  - title: "Opportunities"
+    url: /opportunities/
+
 #  - title: "Talks"
  #   url: /talks/    
 
