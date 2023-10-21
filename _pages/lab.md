@@ -13,6 +13,12 @@ Our lab centres on safeguarding privacy and security of user communities. We col
 * We regularly feature articles at top-tier security and privacy publication venues, such as Usenix Security Symposium, ACM CCS and PoPETS.
 * We are currently based at King's College London, with activities funded partly by the EPSRC project AGENCY.
 
+
+📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
+
+<br />
+
+
 The Privacy & Security for User Communities Lab conducts research across three main themes: 
 * **Inclusive privacy and security**
 
