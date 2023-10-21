@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kovila's Home Page"
+title                    : "Kovila's Academic Page"
 title_separator          : "-"
 name                     : &name "Kovila P.L. Coopamootoo"
 description              : &description "Lecturer (Assistant Professor) in Computer Science with focus in Human-Centred Cyber Security."
