@@ -14,15 +14,15 @@ Welcome to my academic webpage! Here you will find a summary of my research prof
 
 
 ### Summary 
-I am a Assistant Professor (Lecturer) in Computer Science and part of the Cybersecurity Group, at King's College London. Prior to joining King's in December 2021, I was an tenured research fellow (2017-2021) and prior to that a postdoc, both at Newcastle University, UK.
+I am a Assistant Professor (Lecturer) in Computer Science and part of the Cybersecurity Group, at King's College London. Prior to joining King's in December 2021, I was a tenured research fellow (2017-2021) and prior to that a postdoc, both at Newcastle University, UK.
 
-I care deeply about privacy, security & digital safety that enables and betters people's lives - across their diverse, rich and colourful experiences. My research is therefore at the intersection of privacy, security, human-computer interaction and social science, and specifically address the following themes: 
+I care deeply about privacy, security & digital safety that enables and betters people's lives - across their diverse, colourful and vulnerable experiences. My research is therefore at the intersection of privacy, security, human-computer interaction and social science, and specifically address the following themes: 
 
 * **Inclusive Privacy & Security**
 
 Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. Here my research seeks better privacy/security design with and for these at-risk communities.
 
-* **Mitigating technology-enabled harms**
+* **Mitigating Technology-Enabled Harms**
 
 There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. Here I investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition, breakdown of relationship). I aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences.
 
