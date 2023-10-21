@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage! Here you will find a summary of my academic profile, news and selected publications. For detailed information about my lab, opportunities, publications etc, visit the separate pages.
 
-📢🔔 Oct 2023 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ 1 Postdoctoral Research Associate, PhD Students, Research Interns. See 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
+📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
 
 
 ### Summary 
