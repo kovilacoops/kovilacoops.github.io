@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my webpage"
+title: "👋 Hello there, I'm Kovila!"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-👋 Hello there! I am
+Welcome to my webpage! Here you will find a summary of my profile, news and selected publications. For detailed information about my lab, opportunities, publications etc, visit the separate pages.
