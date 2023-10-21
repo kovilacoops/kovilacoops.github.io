@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "👋 Hello there, I'm Kovila!"
-excerpt: ""
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
