@@ -38,7 +38,7 @@ News
 
 Selected Publications: 
 ---
-* *Usenix Security Symposium 2023*: "Un-Equal Online Safety?" A Gender Analysis of Security and Privacy Protection Advice and Behaviour Patterns. By **Kovila P.L Coopamootoo**, Magdalene Ng. [PDF](https://www.usenix.org/system/files/usenixsecurity23-coopamootoo.pdf)
+* *Usenix Security Symposium 2023*: **"Un-Equal Online Safety?" A Gender Analysis of Security and Privacy Protection Advice and Behaviour Patterns**. By <ins>Kovila P.L Coopamootoo</ins> & Magdalene Ng. [PDF](https://www.usenix.org/system/files/usenixsecurity23-coopamootoo.pdf)
 * *IEEE Euro S&PW 2023*: What we do in the shadows: How does experiencing cybercrime affect response actions and protective practices. By Magdalene Ng, Maria Bada, **Kovila P.L Coopamootoo**. [PDF](https://www.computer.org/csdl/proceedings-article/eurospw/2023/272000a659/1OFtg2LeCI0)
 * *Response to UK Government 2023*: Reimagining AI Governance: a Response by AGENCY to the UK Government's White Paper AI Regulation. By Owens, Copilah-Ali, Kolomeets, Malviya, Markeviciute, Olabode, Spiliotopoulos, Wu, Nijia, **Coopamootoo**, Durrant, Elliott, Katsigiannis, Neesham, Lei, Farrand. [PDF](https://ssrn.com/abstract=4551757)
 * *REPHRAIN Whitepaper 2023*: Towards Tackling violence against women and girls online - REPHRAIN Whitepaper. By Ola Michalec, Kim Barker, **Kovila Coopamootoo**, Lynne Coventry, Francois Duppresoir, Matthew Edwards, Shane Johnson, Emily Johnstone, Olga Jurasz, Maryam Mehrnezhad, Wendy Moncur, Frances Ridout, Francesca Stevens, Angelika Strothmayer, Leonie Tanczer. [PDF](https://oro.open.ac.uk/92708/1/REPHRAIN%20%282023%29%20Research-Agenda-Report-Towards-a-research-agenda-tackling-violence-against-women-and-girls-online.pdf)
