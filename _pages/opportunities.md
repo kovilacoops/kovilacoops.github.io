@@ -24,14 +24,32 @@ The RA's project will investigate a particular technology-enabled online harm co
 If you are a prostective PhD candidate with a keen interest in research at the intersection of privacy/security and HCI, behavioural or social sciences, (1) have a look at the project topics as listed below that I am interested to supervise, (2) send me an email at kovila.coopamootoo@kcl.ac.uk to describe your interest and share your academic profile details, (3) and make an application on [King's Application Portal](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply).
 
 ### Project 1: Inclusive Privacy & Security
-Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. The PhD project will focus on a (type of) privacy, security or digital safety context and seek better privacy/security design with and for these at-risk communities, such as addressing
+Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. The PhD project will focus on a (type of) privacy, security or digital safety context and seek better privacy/security design with and for at-risk communities, such as addressing
   * Privacy for women and queer communities for e.g. in online platforms
   * Authentication for the visually impaired 
   * Digital safety for socio-economically deprived communities (where privacy/security is often traded-off for more pressing life needs)
   * Privacy and digital safety programmes for adult digital starters (often from deprived or minority populations, or experiencing the digital generational divide)
   * Privacy and security of refugees and migrants 
 
-The proposed PhD projects will seek better privacy/security design with and for these communities. It will involve a mix of qualitative, participatory research and community-centred research. The projects will involve working with stakeholders such as charities, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy.
+Proposed PhD projects will involve a mix of qualitative, participatory research and community-centred research. The projects can involve working with stakeholders such as charities, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy.
+
+### Project 2: Mitigating Technology-Enabled Harms
+There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. The PhD project will investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition, breakdown of relationship), such as 
+  * Online platforms being used for hate and harassment of women, queer communities, or race minorities. This can address how platforms (are required to) mitigate harm and content moderation.
+  *	Smart homes enabling intimate partner abuse
+  *	Digital health and wellbeing technology involving excessive tracking and privacy invasion (e.g. Femtech, sports apps)
+  *	Online platform’s poor content moderation and lack of age-appropriate controls that threaten children’s online safety
+  *	Content sharing platform used for non-consensual intimate image distribution
+
+Proposed PhD projects will aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences. Specifically, the project will look into the behavioural dynamics of interacting with such technologies (or human-computer interaction – HCI) and the design aspects, via suitable user-studies such as interviews, surveys, participatory workshops, or ethnography research methods.
+
+### Project 3: Private and Safe Chatbot/GPT Interactions
+We are welcoming projects along this topic. 
+
+
+
+
+
 
 
 
