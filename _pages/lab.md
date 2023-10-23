@@ -10,7 +10,7 @@ Our lab centres on safeguarding privacy and security of user communities. We col
 **Key features of our growing lab**:
 * We focus on empirical research at the intersection of privacy/security and HCI, behavioural and social sciences.
 * We employ a mix of qualitative, quantitative, experimental, participatory and social science computational methods.
-* We regularly feature articles at top-tier security and privacy publication venues, such as Usenix Security Symposium, ACM CCS and PoPETS.
+* We regularly feature articles at top-tier security and privacy publication venues, such as Usenix Security Symposium, ACM CCS and PoPETS. See selected publications [here](https://kovilacoops.github.io).
 * We are currently based at King's College London.
 
 
