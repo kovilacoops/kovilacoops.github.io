@@ -11,7 +11,7 @@ Our lab centres on safeguarding privacy and security of user communities. We col
 * We focus on empirical research at the intersection of privacy/security and HCI, behavioural and social sciences.
 * We employ a mix of qualitative, quantitative, experimental, participatory and social science computational methods.
 * We regularly feature articles at top-tier security and privacy publication venues, such as Usenix Security Symposium, ACM CCS and PoPETS.
-* We are currently based at King's College London, with activities funded partly by the EPSRC project AGENCY.
+* We are currently based at King's College London.
 
 
 📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
@@ -44,16 +44,16 @@ Members & Funded Projects
 Co-Lead [AGENCY](https://agencyresearch.net) £3.5 million *EPSRC-funded*, from Apr'22 - Mar'25: Assuring Citizen Agency in a World with Complex Online Harms, where my focus is on the lived experiences of online harms and harm reduction mechanisms among marginalised communities, across contexts of Smarthomes, Femtech, Online Abuse and Digital Identities. AGENCY is a research consortium including colleagues from various disciplines based at Birmingham, Newcastle, Durham Universities, Royal Holloway University of London and King's College London.
 
 
-Past Members & Funded Projects 
+Recent Members & Funded Projects 
 ------
 
 **Students**
-* Athul
-* Gayda
-* Jyovita
-* Noura
-* Shreenithi
-* Dr. Uchechi Nwadike, *PhD Student Newcastle University* (2015-2019, Topic: How emotions impact privacy) *Second Supervisor*
+* Athul, *MSc student, King's College London* (2022-2023)
+* Gayda, *MSc student, King's College London* (2022-2023)
+* Jyovita, *MSc student, King's College London* (2022-2023)
+* Noura, *MSc student, King's College London* (2022-2023)
+* Shreenithi, *MSc student, King's College London* (2022-2023)
+* Dr. Uchechi Nwadike, *PhD student, Newcastle University* (2015-2019, Topic: How emotions impact privacy) *Second Supervisor*
 
 
 **Postdocs we previously worked closely with**
