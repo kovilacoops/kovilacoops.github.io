@@ -5,8 +5,8 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I am often looking for motivated PhD students and research interns to join my team at King's College London. 
-If you are keen on privacy and security research, with direct impact to user communities and for social good, have a look at the opportunities below.👇
+I am often looking for motivated PhD students and research interns to join the Privacy & Security for User Communities Lab, at King's College London. 
+If you are keen on privacy and security research, at the intersection of HCI, behavioural or social sciences, and with impact for user communities, have a look at the opportunities below.👇
 
 📢🔔Currently Recruiting for: 👩‍🎓🧑‍🎓📚💼✍️
   * 1 Postdoctoral Research Associate
