@@ -49,8 +49,8 @@ Proposed PhD projects will aim to understand the lived experiences of users, mak
 We are welcoming projects along this topic. 
 
 ### Funding Options
- * Fully-funded positions for exceptional candidates through King's scholarhships. These funding allocations are for full fees and a living stipend (London weighted).
- * King's China Scholarships (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
+ * Fully-funded positions for exceptional candidates through King's scholarships. These funding allocations are for full fees and a living stipend (London weighted).
+ * [King's China Scholarships](https://www.kcl.ac.uk/study-legacy/funding/kings-china-scholarship-council-phd-scholarship-programme-k-csc) (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
  * Alternative funding: if you are keen to do a PhD but are not sure how to fund, or wish to self-fund, I am happy to work towards putting together applications for PhD fellowships for exceptional candidates, along the lines of the 3 project topics described above.
 
 # Research Interns and Visitors
