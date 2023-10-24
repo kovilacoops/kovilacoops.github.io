@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 I am often looking for motivated and exceptional PhD students and research interns to join my [team](https://kovilacoops.github.io/lab/), at King's College London. 
-If you are keen on privacy and security research, at the intersection of HCI, behavioural or social sciences, with impact for user communities, have a look at the opportunities below.👇
+If you are keen on privacy and security research at the intersection of HCI, behavioural or social sciences, that enables and betters people's lives and impact for specific user communities, have a look at the opportunities below.👇
 
 📢🔔Currently Recruiting for: 👩‍🎓🧑‍🎓📚💼✍️
   * 1 Postdoctoral Research Associate
@@ -23,7 +23,7 @@ The RA's project will investigate a particular technology-enabled online harm co
 # PhD Project with Me (in Human-Centred Privacy and Security)
 I am looking to recruit excellent PhD students to join my [team](https://kovilacoops.github.io/lab/), at King's College London.
 
-If you are a prostective PhD candidate with a keen interest in research at the intersection of privacy/security and HCI, behavioural or social sciences, (1) have a look at the project topics, that I am interested to supervise, as listed below, (2) send me an email at kovila.coopamootoo@kcl.ac.uk to describe your interest and share your academic profile details, and (3) make an application on [King's Application Portal](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply).
+If you are a prospective PhD candidate with a keen interest in research at the intersection of privacy/security and HCI, behavioural or social sciences, (1) have a look at the project topics, that I am interested to supervise, as listed below, (2) send me an email at kovila.coopamootoo@kcl.ac.uk to describe your interest and share your academic profile details, and (3) make an application on [King's Application Portal](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply).
 
 ### Project Topic 1: Inclusive Privacy & Security
 Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. The PhD project will focus on a (type of) privacy, security or digital safety context and seek better privacy/security design with and for at-risk communities, such as addressing
