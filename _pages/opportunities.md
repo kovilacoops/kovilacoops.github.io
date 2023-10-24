@@ -5,7 +5,7 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I am often looking for motivated PhD students and research interns to join our [Privacy & Security for User Communities Lab](https://kovilacoops.github.io/lab/), at King's College London. 
+I am often looking for motivated PhD students and research interns to join my [team](https://kovilacoops.github.io/lab/), at King's College London. 
 If you are keen on privacy and security research, at the intersection of HCI, behavioural or social sciences, with impact for user communities, have a look at the opportunities below.👇
 
 📢🔔Currently Recruiting for: 👩‍🎓🧑‍🎓📚💼✍️
@@ -20,7 +20,9 @@ The job advert via jobs.ac.uk can be found [here](https://www.jobs.ac.uk/job/DDM
 The RA's project will investigate a particular technology-enabled online harm context, such as in relation to Intimate Health Care, Femtech or Intimate Image Sharing. It will focus on a particular user community or population, to examine the socio-technical factors and interaction dynamics that contribute to complex harm situations or to mitigating harms.
 
 
-# PhD Candidates in Human-Centred Privacy and Security 
+# PhD Project with Me (in Human-Centred Privacy and Security)
+I am looking to recruit excellent PhD students to join my [team](https://kovilacoops.github.io/lab/), at King's
+
 If you are a prostective PhD candidate with a keen interest in research at the intersection of privacy/security and HCI, behavioural or social sciences, (1) have a look at the project topics, that I am interested to supervise, as listed below, (2) send me an email at kovila.coopamootoo@kcl.ac.uk to describe your interest and share your academic profile details, and (3) make an application on [King's Application Portal](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply).
 
 ### Project Topic 1: Inclusive Privacy & Security
@@ -45,6 +47,11 @@ Proposed PhD projects will aim to understand the lived experiences of users, mak
 
 ### Project Topic 3: Private and Safe Chatbot/GPT Interactions
 We are welcoming projects along this topic. 
+
+### Funding Options
+ * Fully-funded positions for exceptional candidates through King's scholarhships. These funding allocations are for full fees and a living stipend (London weighted).
+ * King's China Scholarships (for Chinese nationals). These funding allocations are for full fees and a living stipend (London weighted).
+ * Alternative funding: if you are keen to do a PhD but are not sure how to fund, or wish to self-fund, I am happy to work towards putting together applications for PhD fellowships for exceptional candidates, along the lines of the 3 project topics described above.
 
 # Research Interns and Visitors
 The Privacy and Security for User Communities Lab welcomes visiting PhD students as interns and PostDocs (who can visit with their own funding), where the selection will be based on interests matching the [Lab](https://kovilacoops.github.io/lab/) and capacity. 
