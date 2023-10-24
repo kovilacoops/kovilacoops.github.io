@@ -5,7 +5,7 @@ permalink: /opportunities/
 author_profile: true
 ---
 
-I am often looking for motivated PhD students and research interns to join my [team](https://kovilacoops.github.io/lab/), at King's College London. 
+I am often looking for motivated and exceptional PhD students and research interns to join my [team](https://kovilacoops.github.io/lab/), at King's College London. 
 If you are keen on privacy and security research, at the intersection of HCI, behavioural or social sciences, with impact for user communities, have a look at the opportunities below.👇
 
 📢🔔Currently Recruiting for: 👩‍🎓🧑‍🎓📚💼✍️
@@ -21,7 +21,7 @@ The RA's project will investigate a particular technology-enabled online harm co
 
 
 # PhD Project with Me (in Human-Centred Privacy and Security)
-I am looking to recruit excellent PhD students to join my [team](https://kovilacoops.github.io/lab/), at King's
+I am looking to recruit excellent PhD students to join my [team](https://kovilacoops.github.io/lab/), at King's College London.
 
 If you are a prostective PhD candidate with a keen interest in research at the intersection of privacy/security and HCI, behavioural or social sciences, (1) have a look at the project topics, that I am interested to supervise, as listed below, (2) send me an email at kovila.coopamootoo@kcl.ac.uk to describe your interest and share your academic profile details, and (3) make an application on [King's Application Portal](https://www.kcl.ac.uk/study/postgraduate-research/how-to-apply).
 
