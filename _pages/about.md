@@ -14,7 +14,7 @@ Welcome to my academic webpage! Here you will find a summary of my research prof
 
 
 ### Summary 
-I am a Assistant Professor (Lecturer) in Computer Science and part of the Cybersecurity Group, at King's College London. Prior to joining King's in December 2021, I was a tenured research fellow (2017-2021) and prior to that a postdoc, both at Newcastle University, UK.
+I am an Assistant Professor (Lecturer) in Computer Science and part of the Cybersecurity Group, at King's College London. Prior to joining King's in December 2021, I was a tenured research fellow (2017-2021) and prior to that a postdoc, both at Newcastle University, UK.
 
 I care deeply about privacy, security & digital safety that enables and betters people's lives - across their diverse, colourful and vulnerable experiences. My research is therefore at the intersection of privacy, security, human-computer interaction and social science, and specifically address the following themes: 
 
