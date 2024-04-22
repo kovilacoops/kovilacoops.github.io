@@ -5,7 +5,7 @@ permalink: /lab/
 author_profile: true
 ---
 
-Our team centres on safeguarding privacy and security of user communities. We collaborate with researchers across disciplines, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy. 
+We centre on safeguarding privacy and security of user communities. We collaborate with researchers across disciplines, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy. 
 
 **Key features of our growing team**:
 * We focus on empirical research at the intersection of privacy/security and HCI, behavioural and social sciences.
@@ -19,7 +19,7 @@ Our team centres on safeguarding privacy and security of user communities. We co
 <br />
 
 
-The Privacy & Security for User Communities Lab conducts research across three main themes: 
+We conduct research across Privacy & Security for User Communities, under three main themes:
 * **Inclusive privacy and security**
 
 Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. We focus on at-risk communities, such as women, queer communities and children for e.g. in online platforms or digital-safety for socio-economically deprived communities. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.
