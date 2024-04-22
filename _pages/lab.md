@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "Privacy & Security for User Communities Lab"
+title: "Privacy & Security for User Communities"
 permalink: /lab/
 author_profile: true
 ---
 
-Our lab centres on safeguarding privacy and security of user communities. We collaborate with researchers across disciplines, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy. 
+Our team centres on safeguarding privacy and security of user communities. We collaborate with researchers across disciplines, NGOs that support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy. 
 
-**Key features of our growing lab**:
+**Key features of our growing team**:
 * We focus on empirical research at the intersection of privacy/security and HCI, behavioural and social sciences.
 * We employ a mix of qualitative, quantitative, experimental, participatory and social science computational methods.
 * We regularly feature articles at top-tier security and privacy publication venues, such as Usenix Security Symposium, ACM CCS and PoPETS. See selected publications [here](https://kovilacoops.github.io).
 * We are currently based at King's College London.
 
 
-📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
+ <!---📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/) --->
 
 <br />
 
@@ -38,6 +38,8 @@ We will add this info soon.
 
 Members & Funded Projects 
 ------
+* Killian Davitt, Research Associate (2024~)
+* Jerahmeel Madumere, PhD Student (2024~)
 * Shreenithi Suresh, Research Assistant (2023~)
 * Mousa Jari, PhD student (2018~)
   
