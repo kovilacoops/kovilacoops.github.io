@@ -1,7 +1,7 @@
 # main links links
 main:
- # - title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   #- title: "Lab"
   #  url: /lab/
@@ -9,8 +9,8 @@ main:
   - title: "Team"
     url: /team/
 
-#  - title: "Academic Service"
-#    url: /academicservice/
+  - title: "Service"
+    url: /service/
 
   - title: "Opportunities"
     url: /opportunities/
