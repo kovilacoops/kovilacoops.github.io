@@ -10,8 +10,6 @@ redirect_from:
 
 Welcome to my academic webpage! Here you will find a summary of my research profile, news and selected publications. For detailed information about my lab, opportunities, publications etc, visit the separate pages.
 
-📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
-
 
 ### Summary 
 I am an Assistant Professor (Lecturer) in Computer Science and part of the Cybersecurity Group, at King's College London. Prior to joining King's in December 2021, I was a tenured research fellow (2017-2021) and prior to that a postdoc, both at Newcastle University, UK.
