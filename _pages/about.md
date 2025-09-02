@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic webpage! Here you will find a summary of my research profile, news and selected publications. For detailed information about my lab, opportunities, publications etc, visit the separate pages.
+Welcome to my academic webpage! Here you will find a summary of my research profile, news and selected publications. For detailed information about my team, opportunities, publications etc, visit the separate pages.
 
 
 ### Summary 
@@ -16,7 +16,7 @@ I am an Assistant Professor (Lecturer) in Computer Science and part of the Cyber
 
 I care deeply about privacy, security & digital safety that enables and betters people's lives - across their diverse, colourful and vulnerable experiences. My research is therefore at the intersection of privacy, security, human-computer interaction and social science, and specifically address the following themes: 
 
-* **Inclusive Privacy & Security**
+* **Inclusive & Usable Privacy & Security**
 
 Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. Here my research seeks better privacy/security design with and for these at-risk communities.
 
