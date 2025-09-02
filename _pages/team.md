@@ -36,7 +36,7 @@ We will add this info soon.
 
 
 
-Members & Funded Projects 
+Team members
 ------
 * Jennifer Huang, PhD Student (2025~), first supervisor
 * Jerahmeel Madumere, PhD Student (2024~), first supervisor
