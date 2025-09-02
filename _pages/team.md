@@ -29,7 +29,7 @@ Team members
 * Uchechi Nwadike, PhD student (2015-2019), second supervisor
   
 
-Recent Funded Projects 
+<!--Recent Funded Projects -->
 ------
 
 <!--**Students**
@@ -49,7 +49,7 @@ Recent Funded Projects
 4. Revealing Young Learners' Mental Models of Online Sludge, where I focused on young learners' mental models of dark partterns online and inverventions to dispel misconceptions. *Funded by SPRITE+ Network*. Amongst various contributions, I particularly developed an analysis framework for analysing drawings from our participants, and contributed/co-led to the analysis/coding. I worked with colleagues from Strathclyde, Bath, Brunel, Bournemouth and Middlesex Universities.
 
 
-**Postdocs we previously worked closely with**
+**Postdocs, with whom I previously worked closely**
 * Dr Rui Huan, *Postdoc Newcastle University* (2022, Fintrust, Topic: Privacy Transparency in Chatbots, Methods: experimental and design work)
 * Dr Jie Deng, *Postdoc Newcastle University* (2022, Fintrust, Topic: Trust in FinTech / AI, Method: large scale quantitative work)
 * Dr. Ben Evans, *Postdoc The Open University* (2020 -2021, Digital Technologies Power and Control, Topic: Privacy, security & trust for marhinalised communities)
