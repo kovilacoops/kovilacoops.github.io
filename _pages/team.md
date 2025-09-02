@@ -30,9 +30,9 @@ Privacy, security, digital safety are often designed for majority or WEIRD popul
 There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. We investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition in the context of smarthomes, intimate health care or online platforms). We aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.
 
 
-* **Private and safe chatbot interactions**
+<!--* **Private and safe chatbot interactions**
 
-We will add this info soon.
+We will add this info soon.-->
 
 
 
