@@ -26,7 +26,7 @@ There are growing examples of technology originally designed to enhance quality 
 
 * **For detailed topics for PhD or research internship/visitor projects**: have a look at my [Opportunities](https://kovilacoops.github.io/opportunities/) page.
 
-News
+<!---News
 ---
 * 📢🔔 Oct 2023 **Recruiting** 👩‍🎓🧑‍🎓📚💼✍️ 1 Postdoctoral Research Associate, PhD Students, Research Interns. See 👉 [Opportunities](https://kovilacoops.github.io/opportunities/)
 * Sep 2023 Facilitated the "Smarthome technology and intimate partner abuse" stakeholder workshop (AGENCY project activity)
@@ -47,6 +47,7 @@ Selected Publications:
 * *ACM CCS (Computer & Communications Security) 2020*: **Usage Patterns of Privacy-Enhancing Technologies**. By <ins>Kovila P.L Coopamootoo</ins>. [PDF](https://dl.acm.org/doi/abs/10.1145/3372297.3423347)
 * *ACM FAT (Fairness Accountability and Transparency) 2020*: **The relationship between trust in AI and trustworthy machine learning technologies**. By Ehsan Toreini, Mhairi Aitken, <ins>Kovila P.L Coopamootoo</ins>, Karen Elliott, Carlos Gonzalez Zelaya, Aad Van Moorsel. [PDF](https://dl.acm.org/doi/abs/10.1145/3351095.3372834)
 * *Privacy Enhancing Technologies Symposium (PoPETS) 2017*: **Why privacy is all but forgotten - an empirical study of privacy & sharing attitude**. By <ins>Kovila P.L Coopamootoo</ins> & Thomas Gross. [PDF](https://petsymposium.org/popets/2017/popets-2017-0040.pdf)
+--->
 
 
 
