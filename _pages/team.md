@@ -14,25 +14,7 @@ My team and I conduct user-centred/usable privacy and security research, with a 
 * We are currently based at King's College London.
 
 
- <!---📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/) 
-
-
-
-
-We conduct research across Privacy & Security for User Communities, under three main themes:
-* **Inclusive privacy and security**
-
-Privacy, security, digital safety are often designed for majority or WEIRD populations, thereby not appropriately serving all user communities (minority, with specific needs, or life situations), and risk discriminating access and appropriate engagement, while also creating concerns for them. We focus on at-risk communities, such as women, queer communities and children for e.g. in online platforms or digital-safety for socio-economically deprived communities. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.
-
-
-* **Mitigating technology-enabled harms**
-  
-There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. We investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition in the context of smarthomes, intimate health care or online platforms). We aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.--->
-
-
-<!--* **Private and safe chatbot interactions**
-
-We will add this info soon.-->
+📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ ** PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/) 
 
 
 
