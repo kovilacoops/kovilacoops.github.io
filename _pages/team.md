@@ -42,23 +42,28 @@ Team members
 * Chukwuka Jerahmeel Madumere, PhD Student (2024~), first supervisor
 * Muhammad Abdul Basit Malik, PhD Student (2023~), second supervisor
 * Shreenithi Suresh, MSc Student / Research Assistant (2023~)
-* Killian Davitt, Postdoctoral Research Associate (Jan 2024~ Jun 2024)
+* Killian Davitt, Postdoctoral Research Associate (Jan 2024 ~ Jun 2024 / AGENCY project)
 * Mousa Jari, PhD student (2018-2024), first/second supervisor
-* Uchechi Nwadike, PhD student (2017-2021), second supervisor
+* Uchechi Nwadike, PhD student (2015-2019), second supervisor
   
 Co-Lead [AGENCY](https://agencyresearch.net) £3.5 million *EPSRC-funded*, from Apr'22 - Mar'25: Assuring Citizen Agency in a World with Complex Online Harms, where my focus is on the lived experiences of online harms and harm reduction mechanisms among marginalised communities, across contexts of Smarthomes, Femtech, Online Abuse and Digital Identities. AGENCY is a research consortium including colleagues from various disciplines based at Birmingham, Newcastle, Durham Universities, Royal Holloway University of London and King's College London.
 
 
-Recent Members & Funded Projects 
+Recent Funded Projects 
 ------
 
-**Students**
+<!--**Students**
 * Athul, *MSc student, King's College London* (2022-2023)
 * Gayda, *MSc student, King's College London* (2022-2023)
 * Jyovita, *MSc student, King's College London* (2022-2023)
 * Noura, *MSc student, King's College London* (2022-2023)
 * Shreenithi, *MSc student, King's College London* (2022-2023)
-* Dr. Uchechi Nwadike, *PhD student, Newcastle University* (2015-2019, Topic: How emotions impact privacy) *Second Supervisor*
+* Dr. Uchechi Nwadike, *PhD student, Newcastle University* (2015-2019, Topic: How emotions impact privacy) *Second Supervisor*-->
+   
+**A selection of completed funded projects**
+1. [Fintrust](https://fintrustresearch.com): Trust Engineering for the Financial Industry. *Funded by the EPSRC*. I focused on human-centred trust in AI, and worked closely with 3 postdocs to scope research and design user studies, as well as analyse and report data. (see postdoc section past postdoc members above).
+2. Digital Technologies Power and Control, where I looked into how marginalised communities in the UK experience security, privacy, trustworthy and identity technologies. *Funded by SPRITE+ Network*. I worked with social science colleagues from the Open University and Sheffield University on exporatory work and conducted a few user and stakeholder workshops.
+3. Revealing Young Learners' Mental Models of Online Sludge, where I focused on young learners' mental models of dark partterns online and inverventions to dispel misconceptions. *Funded by SPRITE+ Network*. Amongst various contributions, I particularly developed an analysis framework for analysing drawings from our participants, and contributed/co-led to the analysis/coding. I worked with colleagues from Strathclyde, Bath, Brunel, Bournemouth and Middlesex Universities.
 
 
 **Postdocs we previously worked closely with**
@@ -66,9 +71,3 @@ Recent Members & Funded Projects
 * Dr Jie Deng, *Postdoc Newcastle University* (2022, Fintrust, Topic: Trust in FinTech / AI, Method: large scale quantitative work)
 * Dr. Ben Evans, *Postdoc The Open University* (2020 -2021, Digital Technologies Power and Control, Topic: Privacy, security & trust for marhinalised communities)
 * Dr Magdalene Ng, *Postdoc Newcastle University* (2019 - 2021, Fintrust, Topic: Private, Secure, Trustworthy AI; Cybercrime experience, Method: research scoping, qualitative and quantitative user study designs)
-
-   
-**A selection of completed funded projects**
-1. [Fintrust](https://fintrustresearch.com): Trust Engineering for the Financial Industry. *Funded by the EPSRC*. I focused on human-centred trust in AI, and worked closely with 3 postdocs to scope research and design user studies, as well as analyse and report data. (see postdoc section past postdoc members above).
-2. Digital Technologies Power and Control, where I looked into how marginalised communities in the UK experience security, privacy, trustworthy and identity technologies. *Funded by SPRITE+ Network*. I worked with social science colleagues from the Open University and Sheffield University on exporatory work and conducted a few user and stakeholder workshops.
-3. Revealing Young Learners' Mental Models of Online Sludge, where I focused on young learners' mental models of dark partterns online and inverventions to dispel misconceptions. *Funded by SPRITE+ Network*. Amongst various contributions, I particularly developed an analysis framework for analysing drawings from our participants, and contributed/co-led to the analysis/coding. I worked with colleagues from Strathclyde, Bath, Brunel, Bournemouth and Middlesex Universities.
