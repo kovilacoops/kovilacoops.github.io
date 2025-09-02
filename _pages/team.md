@@ -39,7 +39,7 @@ We will add this info soon.-->
 Team members
 ------
 * Jennifer Huang, PhD Student (2025~), first supervisor
-* Jerahmeel Madumere, PhD Student (2024~), first supervisor
+* Chukwuka Jerahmeel Madumere, PhD Student (2024~), first supervisor
 * Muhammad Abdul Basit Malik, PhD Student (2023~), second supervisor
 * Shreenithi Suresh, MSc Student / Research Assistant (2023~)
 * Killian Davitt, Postdoctoral Research Associate (Jan 2024~ Jun 2024)
