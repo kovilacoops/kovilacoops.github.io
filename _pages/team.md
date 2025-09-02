@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-My team and I conduct user-centred/usable privacy and security research, with a focus on safeguarding privacy, safety and security of user communities - a large part addressing at-risk users, communities, identities, or situations. We collaborate with researchers across disciplines, and stakeholders such as NGOs who support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy, policy and industry. 
+My team and I conduct user-centred/usable privacy and security research, with a focus on safeguarding privacy, safety and security of at-risk / vulnerable / minoritised users, communities, identities, or situations. We collaborate with researchers across disciplines, and stakeholders such as NGOs who support vulnerable and marginalised groups and victim-survivors, as well as digital safety advocacy, policy and industry. 
  
 **Key features of our growing team**:
 * We focus on empirical research at the intersection of privacy/security and HCI, behavioural and social sciences.
@@ -14,9 +14,9 @@ My team and I conduct user-centred/usable privacy and security research, with a 
 * We are currently based at King's College London.
 
 
- <!---📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/) --->
+ <!---📢🔔 **Currently Recruiting!** 👩‍🎓🧑‍🎓📚💼✍️ **1 Postdoctoral Research Associate, PhD Students, Research Interns. See** 👉 [Opportunities](https://kovilacoops.github.io/opportunities/) 
 
-<br />
+
 
 
 We conduct research across Privacy & Security for User Communities, under three main themes:
@@ -27,7 +27,7 @@ Privacy, security, digital safety are often designed for majority or WEIRD popul
 
 * **Mitigating technology-enabled harms**
   
-There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. We investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition in the context of smarthomes, intimate health care or online platforms). We aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.
+There are growing examples of technology originally designed to enhance quality of life being mis-used to facilitate abuse, online harms and in-security. We investigate a particular context of technology-enabled harm in intersection with the user characteristic or life event that amplifies the chances of being targeted or in experiencing online harms (e.g. gender, age, life style preference, health condition in the context of smarthomes, intimate health care or online platforms). We aim to understand the lived experiences of users, make recommendations and prototype for safer/harm-mitigating experiences. The [opportunities page](https://kovilacoops.github.io/opportunities/) further provides specific PhD/interns topics for this theme.--->
 
 
 <!--* **Private and safe chatbot interactions**
@@ -46,8 +46,6 @@ Team members
 * Mousa Jari, PhD student (2018-2024), first/second supervisor
 * Uchechi Nwadike, PhD student (2015-2019), second supervisor
   
-Co-Lead [AGENCY](https://agencyresearch.net) £3.5 million *EPSRC-funded*, from Apr'22 - Mar'25: Assuring Citizen Agency in a World with Complex Online Harms, where my focus is on the lived experiences of online harms and harm reduction mechanisms among marginalised communities, across contexts of Smarthomes, Femtech, Online Abuse and Digital Identities. AGENCY is a research consortium including colleagues from various disciplines based at Birmingham, Newcastle, Durham Universities, Royal Holloway University of London and King's College London.
-
 
 Recent Funded Projects 
 ------
@@ -61,9 +59,12 @@ Recent Funded Projects
 * Dr. Uchechi Nwadike, *PhD student, Newcastle University* (2015-2019, Topic: How emotions impact privacy) *Second Supervisor*-->
    
 **A selection of completed funded projects**
-1. [Fintrust](https://fintrustresearch.com): Trust Engineering for the Financial Industry. *Funded by the EPSRC*. I focused on human-centred trust in AI, and worked closely with 3 postdocs to scope research and design user studies, as well as analyse and report data. (see postdoc section past postdoc members above).
-2. Digital Technologies Power and Control, where I looked into how marginalised communities in the UK experience security, privacy, trustworthy and identity technologies. *Funded by SPRITE+ Network*. I worked with social science colleagues from the Open University and Sheffield University on exporatory work and conducted a few user and stakeholder workshops.
-3. Revealing Young Learners' Mental Models of Online Sludge, where I focused on young learners' mental models of dark partterns online and inverventions to dispel misconceptions. *Funded by SPRITE+ Network*. Amongst various contributions, I particularly developed an analysis framework for analysing drawings from our participants, and contributed/co-led to the analysis/coding. I worked with colleagues from Strathclyde, Bath, Brunel, Bournemouth and Middlesex Universities.
+1. [AGENCY](https://agencyresearch.net) £3.5 million *EPSRC-funded*, from Apr'22 - Mar'25: Assuring Citizen Agency in a World with Complex Online Harms, where my focus, as the King's College London Lead, was on the experiences of online harms in the (unconsensual) sharing of intimate content, as well as gender and sexuality with regards to online safety.
+<!--2. and harm reduction mechanisms among marginalised communities, across contexts of Smarthomes, Femtech, Online Abuse and Digital Identities.-->
+AGENCY was a research consortium including colleagues from various disciplines based at Birmingham, Newcastle, Durham Universities, Royal Holloway University of London and King's College London.
+2. [Fintrust](https://fintrustresearch.com): Trust Engineering for the Financial Industry. *Funded by the EPSRC*. I focused on human-centred trust in AI, and worked closely with 3 postdocs to scope research and design user studies, as well as analyse and report data. (see postdoc section past postdoc members above).
+3. Digital Technologies Power and Control, where I looked into how marginalised communities in the UK experience security, privacy, trustworthy and identity technologies. *Funded by SPRITE+ Network*. I worked with social science colleagues from the Open University and Sheffield University on exporatory work and conducted a few user and stakeholder workshops.
+4. Revealing Young Learners' Mental Models of Online Sludge, where I focused on young learners' mental models of dark partterns online and inverventions to dispel misconceptions. *Funded by SPRITE+ Network*. Amongst various contributions, I particularly developed an analysis framework for analysing drawings from our participants, and contributed/co-led to the analysis/coding. I worked with colleagues from Strathclyde, Bath, Brunel, Bournemouth and Middlesex Universities.
 
 
 **Postdocs we previously worked closely with**
