@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic webpage! Here you will find a summary of my research profile, news and selected publications. For detailed information about my team, opportunities, publications etc, visit the separate pages.
+Welcome to my academic webpage! Here you will find a summary of my research profile and selected publications. For detailed information about my team, opportunities, and service, please visit the separate pages.
 
 
 ### Summary 
