@@ -8,8 +8,8 @@ author_profile: true
 Chair and Organising
 ------
 * PC Chair: [European Interdisciplinary Cybersecurity Conference](https://www.fvv.um.si/eicc2024/) (EICC) 2024
-* Poster Chair: Usenix SOUPS 2024, 2025
-* Safe-Spaces Co-Chair: PETS 2025, 2026
+* Poster Chair: Usenix Symposium on Usable Privacy and Security (SOUPS) 2024, 2025
+* Safe-Spaces Co-Chair: Privacy-Enhancing Technologies Symposium (PETS) 2025, 2026
 * Workshop on [Gender, Online Safety & Sexuality](https://gossworkshop.github.io) (GOSS) at Usenix SOUPS 2024 and 2025
 * Workshop on [Societal & User-Centred Privacy in AI](https://supa-workshop.github.io/supa.github.io/#agenda) (SUPA) at Usenix SOUPS 2024
 * Workshop on [Security & Privacy for At-Risk Communities](https://sparc-workshop.github.io) (SPARC) at PETS 2024
