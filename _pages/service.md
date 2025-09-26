@@ -18,7 +18,7 @@ Chair and Organising
 
 Journal Editorial
 ------
-* Guest Editor for IEEE S&P Magazine 2024-2025 [Special Issue on Gender & Sexuality in Online Safety](https://www.computer.org/digital-library/magazines/sp/cfp-gender-and-sexuality-in-online-safety) Special Issue available: [PDF](https://csdl-downloads.ieeecomputer.org/mags/sp/2025/04/msp202504.issue.pdf?Expires=1758737022&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3Mvc3AvMjAyNS8wNC9tc3AyMDI1MDQuaXNzdWUucGRmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzU4NzM3MDIyfX19XX0_&Signature=dZaJ7EoNVfruKJtx7VJD8XR-OpbxowzFXFzi5pu7H4QTXIRvUfKV8Syxh71xcj12yh3cREAt1~BrLXUD6MWLxLmpn1Lz5zUwWUMJ4f2fue0mpAdFAs6CEVeCRsrPk7sLiXREuQnDbBzIbFOLHG0Lj~b~g-GezbCTnsv9AxS8PYVcQ5Vf8M8iOgUxKrKdlYOvGEQfMZUVgAiJgG-WCSdDAK1ntt-iWZuTAXt1zCYgZczF7RBD-HAMTFa0OmAReL8Lw8a18RD6pL6Sj~hsfddGoLm6DE2ebLOv102rqzRpbyRgydUtsE3QEjbTXEuyB4z2ViKHc7BkLbyWbi6PzrHfPQ__&Key-Pair-Id=K12PMWTCQBDMDT)
+* Guest Editor for IEEE S&P Magazine 2024-2025 [Special Issue on Gender & Sexuality in Online Safety](https://www.computer.org/digital-library/magazines/sp/cfp-gender-and-sexuality-in-online-safety). The Special Issue available [here](https://www.computer.org/csdl/magazine/sp/2025/04/11163593/29Xd5tKsGtO).
 * Lead Guest Editor for International Journal of Information Security 2024-2025 [Special Issue on Interdisciplinary Perspectives for Socio-Technical Cyber Security Threats](https://link.springer.com/journal/10207/updates/26989596)
 
 Conference Program Committee
